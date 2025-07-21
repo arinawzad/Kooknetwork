@@ -1,0 +1,34 @@
+flutter_native_splash:
+  # Background color for the splash screen - solid Deep Purple
+  color: "#5E35B1"  # Deep Purple
+  
+  # No image on the splash screen - this will give you just the solid color
+  # image: assets/icons/icon.png
+  
+  # Optional: Customize the branding image at the bottom of the splash screen
+  #branding: assets/branding/brand.png
+  #branding_mode: bottom
+  
+  # Same Deep Purple color for dark mode
+  color_dark: "#5E35B1"  # Deep Purple
+  #image_dark: assets/icons/icon.png
+  
+  # Android 12+ specific settings
+  android_12:
+    # No image for Android 12+
+    #image: assets/icons/icon.png
+    icon_background_color: "#5E35B1"  # Deep Purple
+    #image_dark: assets/icons/icon.png
+    icon_background_color_dark: "#5E35B1"  # Deep Purple
+    
+  # Web specific settings
+  web: false
+  
+  # iOS specific settings
+  ios: true
+  ios_content_mode: center
+  
+  # Splash screen duration in milliseconds
+  # Default is 2000 (2 seconds)
+  #android_screen_orientation: portrait
+  fullscreen: true
