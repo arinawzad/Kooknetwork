@@ -6,9 +6,9 @@ Kook is a Flutter application that serves as a cooking companion. It also includ
 
 | Login Screen | Home Screen | Profile Screen |
 | :---- | :---- | :---- |
-| ![Login Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/login-screen.PNG) | ![Home Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/home-screen.PNG) | ![Profile Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/profile-screen.PNG) |
+| ![Login Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3567.PNG) | ![Home Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3566.PNG) | ![Profile Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3571.PNG) |
 | **Team Tab** | **Task Tab** | **Community Tab** |
-| ![Team Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3566.PNG) | ![Task Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/task-tab.PNG) | ![Community Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/community-tab.PNG) |
+| ![Team Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3566.PNG) | ![Task Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/task-tab.PNG) | ![Community Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3570.PNG) |
 
 ## **Features**
 * **Authentication:** User registration and login.  
