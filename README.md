@@ -8,7 +8,7 @@ Kook is a Flutter application that serves as a cooking companion. It also includ
 | :---- | :---- | :---- |
 | ![Login Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3567.PNG) | ![Home Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3566.PNG) | ![Profile Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3571.PNG) |
 | **Team Tab** | **Task Tab** | **Community Tab** |
-| ![Team Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3566.PNG) | ![Task Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/task-tab.PNG) | ![Community Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3570.PNG) |
+| ![Team Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3566.PNG) | ![Task Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3568.PNG) | ![Community Tab](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/IMG_3570.PNG) |
 
 ## **Features**
 * **Authentication:** User registration and login.  
