@@ -1,4 +1,4 @@
-# **Kook**  ![Login Screen](https://raw.githubusercontent.com/arinawzad/Kooknetwork/main/screen/icon.png)
+# **Kook**  
 
 Kook is a Flutter application that serves as a cooking companion. It also includes features related to a mining-based community, including teams, tasks, and a project roadmap. The app is designed to work on Android, iOS, and desktop platforms (Linux, macOS, Windows). The application is localized in English, Arabic, French, German, Kurdish (Farsi), and Vietnamese.
 
